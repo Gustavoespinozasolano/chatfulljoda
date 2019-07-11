@@ -1,4 +1,5 @@
-var socket= io.connect('http://172.16.3.156:6677',{'forceNew':true});
+//var socket= io.connect('http://172.16.3.156:6677',{'forceNew':true});
+var socket= io();
 socket.on('messages',function(data){
 	console.log(data);
 	render(data);
