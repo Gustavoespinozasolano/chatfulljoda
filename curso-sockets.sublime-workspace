@@ -1,0 +1,279 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"s",
+				"status"
+			],
+			[
+				"fil",
+				"fileExt"
+			],
+			[
+				"pro",
+				"proyect"
+			],
+			[
+				"se",
+				"send"
+			],
+			[
+				"project",
+				"projectStored"
+			],
+			[
+				"la",
+				"langs"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"bo",
+				"bodyParser"
+			],
+			[
+				"ge",
+				"getNumero"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 267,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/Gustavo/angular/curso-sockets"
+	],
+	"file_history":
+	[
+		"/E/Gustavo/angular/proyecto-angular/src/app/app.component.html",
+		"/E/Gustavo/angular/proyecto-angular/src/assets/css/css/styles.css",
+		"/E/Gustavo/angular/proyecto-angular/src/assets/css/styles.css",
+		"/E/Gustavo/angular/proyecto-angular/src/app/components/about/about.component.html",
+		"/E/Gustavo/angular/proyecto-angular/src/app/app.component.ts",
+		"/E/Gustavo/angular/proyecto-angular/src/app/app.module.ts",
+		"/E/Gustavo/angular/proyecto-angular/src/assets/css/style.css",
+		"/E/Gustavo/angular/proyecto-angular/src/app/app.routing.ts",
+		"/E/Gustavo/angular/proyecto-angular/angular.json",
+		"/E/Gustavo/angular/proyecto-angular/src/styles.css",
+		"/E/Gustavo/angular/backend/init.js",
+		"/E/Gustavo/angular/aprendiendo-angular/src/app/models/configuracion.ts",
+		"/E/Gustavo/angular/aprendiendo-angular/src/app/models/zapatilla.ts",
+		"/E/Gustavo/angular/aprendiendo-angular/src/app/app.component.html",
+		"/E/Gustavo/angular/aprendiendo-angular/src/app/app.component.ts",
+		"/E/Gustavo/angular/aprendiendo-angular/src/app/cursos/cursos.component.css",
+		"/E/Gustavo/angular/aprendiendo-angular/src/app/cursos/cursos.component.spec.ts",
+		"/E/Gustavo/angular/aprendiendo-angular/src/app/app.component.spec.ts",
+		"/E/Gustavo/angular/aprendiendo-angular/src/app/app.component.css",
+		"/E/Gustavo/angular/aprendiendo-angular/src/app/videoJuego/videojuego.component.html",
+		"/E/Gustavo/angular/aprendiendo-angular/src/app/videoJuego/videojuego.component.ts",
+		"/E/Gustavo/angular/aprendiendo-angular/src/app/zapatillas/zapatillas.component.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 267,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "curso-sockets.sublime-workspace",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 290.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
